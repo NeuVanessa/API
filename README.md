@@ -1,7 +1,7 @@
-# NodeJS - Webnar com a Digital Innovation One
-API criada em NodeJS para gerenciar os Crushs
 
-Este projeto foi baseado em minha API: https://crush-management.herokuapp.com/
+API criada em NodeJS para gerenciar qualquer coisa
+
+Este projeto foi baseado em minha API: 
 
 # Requisitos
 - [NodeJS](https://nodejs.org/en/)
